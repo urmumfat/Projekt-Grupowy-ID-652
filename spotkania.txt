@@ -20,4 +20,4 @@
 
 28.11.2025 - spotkanie z prowadzącym (A, K) - wyjaśnienie wątpliwości co do sterownika, ustalenie dalszego planu działania co do doboru części
 
-03.12.2025 - spotkanie grupowe (wszy) - 
+03.12.2025 - spotkanie grupowe (wszy) - złożenie podstawy, napisanie programu do obsługi czujników, dalsze zmagania z lidarem
